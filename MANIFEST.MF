@@ -1,0 +1,4 @@
+Manifest-Version: 1.1
+Created-By: Qiu
+Main-Class: Calculadora
+X-COMMENT: MI PRIMER PROGRAMA 2023-9-2
