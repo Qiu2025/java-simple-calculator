@@ -34,7 +34,7 @@ public class Calculadora extends JFrame implements ActionListener{
     setLayout(null);
     setDefaultCloseOperation(EXIT_ON_CLOSE);
     setTitle("Calculadora");
-    setIconImage(new ImageIcon(getClass().getResource("images/Calculadora.png")).getImage());
+    setIconImage(new ImageIcon(getClass().getResource("Calculadora.ico")).getImage());
     
     menubar = new JMenuBar();
     setJMenuBar(menubar);
