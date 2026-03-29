@@ -1,4 +1,4 @@
-# calculadora
+# Java Simple Calculator
 This project represents my first practical experience working with Java. It was developed in the summer of 2023, before I started university. After learning the fundamentals of the language and becoming familiar with the AWT and Swing libraries through tutorials by [La Geekipedia de Ernesto](https://www.youtube.com/playlist?list=PLyvsggKtwbLX9LrDnl1-K6QtYo7m0yXWB), I decided to build a small project on my own to consolidate what I had learned and move beyond guided exercises.
 
 > [!NOTE]
